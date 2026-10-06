@@ -1,16 +1,50 @@
-## Hi there 👋
+# AnxiCode
 
-<!--
-**Anxi-Code/Anxi-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Battling Code Anxiety Together**
 
-Here are some ideas to get you started:
+AnxiCode is an AI-powered, gamified coding learning and practice platform designed to help learners build programming skills, improve confidence, and overcome code anxiety through structured learning, debugging challenges, quizzes, and real-time coding battles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AnxiCode Preview](anxicode_linkedin_post.png)
+
+## 🚀 Features
+
+* 🎮 **Gamified Learning:** Progress through structured programming levels and ranks.
+* 💻 **Multi-Language Support:** Practice with C++, Python, Java, and JavaScript.
+* 📚 **Structured Progression:** Learn through topic-based levels and track your progress.
+* 🧩 **Coding Challenges & Quizzes:** Strengthen programming concepts through interactive practice.
+* 🐞 **Error Tracking Arena:** Identify and fix bugs through hands-on debugging challenges.
+* ⚒️ **Syntax Forge:** Practice syntax and verify code correctness.
+* ⚔️ **Real-Time Coding Battles:** Challenge other learners in competitive coding matches.
+* 🤖 **AI-Powered Feedback:** Receive intelligent code analysis, personalized feedback, and adaptive learning support.
+
+## 🛠️ Tech Stack
+
+| Component                    | Technologies                                        |
+| ---------------------------- | --------------------------------------------------- |
+| Frontend                     | Flutter                                             |
+| Backend                      | Dart, FastAPI(Python)                               |
+| Database & Storage           | Supabase                                            |
+| Authentication & Matchmaking | Supabase Auth                                       |
+| Code Execution               | Docker Containers(Sandbox)                          |
+| Cloud Infrastructure         | AWS                                                 |
+| AI/ML                        | Pre-Trained AI models                               |
+
+## 📂 Project Repository
+
+🔗 [View AnxiCode on GitHub](https://github.com/Anxi-Code/AnxiCode)
+
+## 📸 Screenshots
+<img width="2400" height="2603" alt="anxicode_linkedin_post" src="https://github.com/user-attachments/assets/0a9b473e-d2a9-4f42-a724-1110b9500029" />
+
+
+## 👥 Contributors
+
+* **[Muhammad Shahroz](https://github.com/Shahroz5373)** — Project Contributor
+* **[Meesum Afzaal](https://github.com/Meesum-Afzaal)** — Project Contributor
+* **[Waleed Khurram](https://github.com/waleedrajpoot786)** — Project Contributor
+
+---
+
+*Final Year Project (FYP) — University of Central Punjab*
+
+**Built to make coding practice more engaging, supportive, and confidence-building.**
