@@ -29,9 +29,6 @@ AnxiCode is an AI-powered, gamified coding learning and practice platform design
 | Cloud Infrastructure         | AWS                                                 |
 | AI/ML                        | Pre-Trained AI models                               |
 
-## 📂 Project Repository
-
-🔗 [View AnxiCode on GitHub](https://github.com/Anxi-Code/AnxiCode)
 
 ## 📸 Screenshots
 <img width="2400" height="2603" alt="anxicode_linkedin_post" src="https://github.com/user-attachments/assets/0a9b473e-d2a9-4f42-a724-1110b9500029" />
